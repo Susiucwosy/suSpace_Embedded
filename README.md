@@ -1,2 +1,2 @@
-# suSpace_Embeded
-suWorkSpace_EmbededSystemsEngineer
+# suSpace_Embedded
+suWorkSpace_EmbeddedSystemsEngineer
